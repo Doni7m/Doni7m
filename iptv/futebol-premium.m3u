@@ -4,6 +4,18 @@
 # [GEO] = pode existir bloqueio regional. Direitos e programacao mudam por pais e competicao.
 
 # =============================
+# 00 - CAZETV BACKUPS
+# =============================
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="00 - CAZETV BACKUPS",CAZETV | PRINCIPAL | FAST/CloudFront [BR] [GEO]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="00 - CAZETV BACKUPS",CAZETV | BACKUP 1 | TCL/Amagi [BR] [GEO]
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="00 - CAZETV BACKUPS",CAZETV | BACKUP 2 | LG Channels/Amagi [BR] [GEO]
+https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg17930-amg17930c2-amgplt0026/playlist.m3u8
+
+# =============================
 # 01 - REAL MADRID / LALIGA
 # =============================
 #EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="01 - REAL MADRID",RM | LALIGA | CazeTV [BR]
