@@ -1,9 +1,10 @@
 #EXTM3U
-# Playlist curada a partir de streams presentes no IPTV-org em 22-08-2026.
-# Alguns eventos podem ser bloqueados por territorio mesmo quando o canal abre normalmente.
+# Futebol Premium - SS IPTV
+# Curada a partir de streams publicamente listados no IPTV-org e fontes abertas verificadas em 22-08-2026.
+# [GEO] = pode existir bloqueio regional. Direitos e programacao mudam por pais e competicao.
 
 # =============================
-# REAL MADRID / LALIGA
+# 01 - REAL MADRID / LALIGA
 # =============================
 #EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="01 - REAL MADRID",RM | LALIGA | CazeTV [BR]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -15,7 +16,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 # =============================
-# UEFA CHAMPIONS LEAGUE
+# 02 - UEFA CHAMPIONS LEAGUE
 # =============================
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="02 - CHAMPIONS",UCL | SBT Nacional [BR] [GEO]
 https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
@@ -26,11 +27,11 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@SD" group-title="02 - CHAMPIONS",UCL | TUDN [USA-ES] [GEO]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
-#EXTINF:-1 tvg-id="La1.es@SD" group-title="02 - CHAMPIONS",UCL | La 1 RTVE [ES] [FINAL/SELECIONADOS] [GEO]
+#EXTINF:-1 tvg-id="La1.es@SD" group-title="02 - CHAMPIONS",UCL | La 1 RTVE [ES] [SELECIONADOS] [GEO]
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
 # =============================
-# BRASILEIRAO / FUTEBOL BR
+# 03 - BRASILEIRAO / FUTEBOL BR
 # =============================
 #EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="03 - BRASILEIRAO",BRA A | CazeTV [BR]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -48,7 +49,7 @@ https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 https://media.cdntvms.com.br/band_sat/index.m3u8
 
 # =============================
-# SELECAO / MUNDIAL / FIFA
+# 04 - SELECAO / MUNDIAL / FIFA
 # =============================
 #EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="04 - SELECAO E MUNDIAL",BRASIL | CazeTV [MUNDIAL/FUTEBOL]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -66,7 +67,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 # =============================
-# EXTRAS DE FUTEBOL / ESPORTE
+# 05 - EXTRAS FUTEBOL / ESPORTE
 # =============================
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="05 - EXTRAS FUTEBOL",EXTRA | TV Brasil [CBF/FUTEBOL FEMININO]
 https://tvbrasil-stream.ebc.com.br/index.m3u8
@@ -76,3 +77,114 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="geFast.br@SD" group-title="05 - EXTRAS FUTEBOL",EXTRA | ge Fast
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+
+# =============================
+# 06 - EUROPA ORIENTAL / CAUCASO / ASIA CENTRAL
+# =============================
+#EXTINF:-1 tvg-id="MaincastCybersport.ua@SD" group-title="06 - WORLD FOOTBALL",WORLD | Maincast Cybersport [UA]
+http://stream.mcquack.net/487/index.m3u8
+
+#EXTINF:-1 tvg-id="MaincastSport.ua@SD" group-title="06 - WORLD FOOTBALL",WORLD | Maincast Sport [UA]
+http://stream.mcquack.net/490/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" group-title="06 - WORLD FOOTBALL",WORLD | Setanta Sports+ Ukraine [UA]
+http://stream.mcquack.net/390/index.m3u8
+
+#EXTINF:-1 tvg-id="DiviSport.ua@SD" group-title="06 - WORLD FOOTBALL",WORLD | DiviSport [UA]
+http://stream.mcquack.net/457/index.m3u8
+
+#EXTINF:-1 tvg-id="DynamoKyivTV.ua@SD" group-title="06 - WORLD FOOTBALL",CLUB | Dynamo Kyiv TV [UA]
+http://stream.mcquack.net/396/index.m3u8
+
+#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" group-title="06 - WORLD FOOTBALL",WORLD | Adjarasport 1 [GE]
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSports3.ge@SD" group-title="06 - WORLD FOOTBALL",WORLD | Setanta Sports 3 [GE]
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+
+#EXTINF:-1 tvg-id="QazSport.kz@SD" group-title="06 - WORLD FOOTBALL",WORLD | QazSport [KZ]
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 tvg-id="QazSport.kz@SD" group-title="06 - WORLD FOOTBALL",WORLD | QazSport Official [KZ] [GEO]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="06 - WORLD FOOTBALL",WORLD | CBC Sport HD [AZ] [GEO]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+# =============================
+# 07 - TURQUIA
+# =============================
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="07 - TURQUIA FUTEBOL",TUR | A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="HTSporTV.tr@SD" group-title="07 - TURQUIA FUTEBOL",TUR | HT Spor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="07 - TURQUIA FUTEBOL",TUR | TRT Spor
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="07 - TURQUIA FUTEBOL",TUR | TRT Spor Yildiz [GEO]
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+
+#EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="07 - TURQUIA FUTEBOL",CLUB | Fenerbahce TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+# =============================
+# 08 - ORIENTE MEDIO / NORTE DA AFRICA
+# =============================
+#EXTINF:-1 tvg-id="AlkassOne.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass One [QA]
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass Two [QA]
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassThree.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass Three [QA]
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassFour.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass Four [QA]
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassSix.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass Six [QA]
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass SHOOF [QA]
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassSHOOF2.qa@SD" group-title="08 - ARAB FOOTBALL",ARAB | Alkass SHOOF 2 [QA]
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" group-title="08 - ARAB FOOTBALL",ARAB | Arryadia [MA]
+http://149.100.11.252:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="SharjahSports.ae@SD" group-title="08 - ARAB FOOTBALL",ARAB | Sharjah Sports [AE] [GEO]
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+
+# =============================
+# 09 - INTERNACIONAIS / GRANDES EVENTOS
+# =============================
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="09 - INTERNACIONAIS",WORLD | beIN SPORTS XTRA [USA] [GEO]
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KNSD481.us" group-title="09 - INTERNACIONAIS",WORLD | Telemundo KNSD 48.1 [USA-ES] [GEO]
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="09 - INTERNACIONAIS",WORLD | Las Estrellas [MX] [GEO]
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="09 - INTERNACIONAIS",WORLD | TyC Sports [AR]
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" group-title="09 - INTERNACIONAIS",WORLD | RCN Mas [CO]
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" group-title="09 - INTERNACIONAIS",WORLD | Das Erste ARD [DE] [GEO]
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" group-title="09 - INTERNACIONAIS",WORLD | ZDF [DE] [GEO]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it" group-title="09 - INTERNACIONAIS",WORLD | Rai 1 [IT] [GEO]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-id="SABC1.za" group-title="09 - INTERNACIONAIS",WORLD | SABC 1 [ZA] [GEO]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
