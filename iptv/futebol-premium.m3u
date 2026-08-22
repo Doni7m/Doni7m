@@ -1,0 +1,78 @@
+#EXTM3U
+# Playlist curada a partir de streams presentes no IPTV-org em 22-08-2026.
+# Alguns eventos podem ser bloqueados por territorio mesmo quando o canal abre normalmente.
+
+# =============================
+# REAL MADRID / LALIGA
+# =============================
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="01 - REAL MADRID",RM | LALIGA | CazeTV [BR]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" group-title="01 - REAL MADRID",RM | CLUB | Real Madrid TV [ES]
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" group-title="01 - REAL MADRID",RM | CLUB | Real Madrid TV English [GEO]
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+# =============================
+# UEFA CHAMPIONS LEAGUE
+# =============================
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="02 - CHAMPIONS",UCL | SBT Nacional [BR] [GEO]
+https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" group-title="02 - CHAMPIONS",UCL | SBT Interior [BR] [BACKUP]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us@SD" group-title="02 - CHAMPIONS",UCL | TUDN [USA-ES] [GEO]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="La1.es@SD" group-title="02 - CHAMPIONS",UCL | La 1 RTVE [ES] [FINAL/SELECIONADOS] [GEO]
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+
+# =============================
+# BRASILEIRAO / FUTEBOL BR
+# =============================
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="03 - BRASILEIRAO",BRA A | CazeTV [BR]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br@SD" group-title="03 - BRASILEIRAO",BRA A | Record TV SP [GEO]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="geFast.br@SD" group-title="03 - BRASILEIRAO",BRA | ge Fast [FUTEBOL/COBERTURA]
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="03 - BRASILEIRAO",BRA B | RedeTV! SP [NOT 24/7]
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band.br@SD" group-title="03 - BRASILEIRAO",BRA C | Band Nacional
+https://media.cdntvms.com.br/band_sat/index.m3u8
+
+# =============================
+# SELECAO / MUNDIAL / FIFA
+# =============================
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="04 - SELECAO E MUNDIAL",BRASIL | CazeTV [MUNDIAL/FUTEBOL]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="04 - SELECAO E MUNDIAL",BRASIL | SBT Nacional [SELECAO] [GEO]
+https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
+
+#EXTINF:-1 tvg-id="NSports.br@SD" group-title="04 - SELECAO E MUNDIAL",MUNDIAL | N Sports [BR]
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="04 - SELECAO E MUNDIAL",FIFA+ | English [REPLAYS/FOOTBALL]
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" group-title="04 - SELECAO E MUNDIAL",FIFA+ | Espanol [REPLAYS/FOOTBALL]
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+# =============================
+# EXTRAS DE FUTEBOL / ESPORTE
+# =============================
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="05 - EXTRAS FUTEBOL",EXTRA | TV Brasil [CBF/FUTEBOL FEMININO]
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="05 - EXTRAS FUTEBOL",EXTRA | BandSports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="geFast.br@SD" group-title="05 - EXTRAS FUTEBOL",EXTRA | ge Fast
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
